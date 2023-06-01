@@ -1,6 +1,9 @@
 ### Hi there 👋 and welcome to my Git!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Achellous)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Achellous)](https://github.com/anuraghazra/github-readme-stats&theme=merko)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Achellous&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Achellous&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Achellous/Achellous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
