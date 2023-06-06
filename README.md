@@ -1,5 +1,10 @@
 ### Hi there 👋 and welcome to my Git!
 
+<h1 align="center">
+  <img src="text.gif" alt="Fawaz Thomas Bouti" />
+</h1>
+
+
 Profile is still under constructions, be patient please :) 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Achellous)](https://github.com/anuraghazra/github-readme-stats&theme=merko)
