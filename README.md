@@ -4,6 +4,7 @@
 
 <h1 align="center">
   <img src="text.gif" alt="Fawaz Thomas Bouti" />
+    <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Fawaz Thomas Bouti" />
 </h1>
 
 
