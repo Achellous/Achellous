@@ -1,5 +1,5 @@
-### <h2 align= "center"> 
-    <Hi there 👋 and welcome to my Git!>
+<h2 align="center"> 
+    Hi there 👋 and welcome to my Git!
       </h2>
 
 <h1 align="center">
