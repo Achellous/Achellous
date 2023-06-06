@@ -1,20 +1,26 @@
+Profile is still under constructions, be patient please :) 
 <h1 align="center">
     Hi there 👋 and welcome to my Git! <br/> <img src="text.gif" alt="Fawaz Thomas Bouti" />
 </h1>
 
+<table align="center">
+  <tr>
+    <td width="50%" style="text-align: left;">
+      <img src="coder.gif" alt="coder" width="400" style="display: block; margin: 0 auto;" />
+    </td>
+    <td width="50%" style="text-align: right;">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=achellous&&show_icons=true&theme=radical" width="400" style="display: block; margin: 0 auto;" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-Profile is still under constructions, be patient please :) 
 
-<p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=achellous&&show_icons=true&theme=radical"/>
-  </a>
-</p>
-<p align="center" >
-    <a img  src="coder.gif"/>
-    </a>
- </p>  
-<p align="left">
+
+
+    
+<p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <a href="#">
     <img src="java.png" alt="java" style="vertical-align:top; margin:6px 4px">
