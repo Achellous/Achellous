@@ -1,6 +1,5 @@
 <h1 align="center">
-    Hi there 👋 and welcome to my Git!
-  <img src="text.gif" alt="Fawaz Thomas Bouti" />
+    Hi there 👋 and welcome to my Git! <br/> <img src="text.gif" alt="Fawaz Thomas Bouti" />
 </h1>
 
 
